@@ -45,6 +45,7 @@ A clean and responsive MERN stack note-taking application. Users can create, vie
 ```bash
 git clone https://github.com/CalypsoJeff/Note-Taking-App.git
 cd note-taking-app
+```
 
 ### 2. Backend Setup
 cd server
