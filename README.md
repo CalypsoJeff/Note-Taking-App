@@ -49,6 +49,7 @@ cd note-taking-app
 
 ### 2. Backend Setup
 cd server
+
 npm install
 
 Create a .env file inside backend/:
