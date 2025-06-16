@@ -30,6 +30,16 @@ A clean and responsive MERN stack note-taking application. Users can create, vie
 
 ---
 
+
+## 🧠 AI-Assisted Development
+
+This project used AI tools to accelerate development and improve code quality:
+
+- **Frontend Components**: AI-assisted layout design with Tailwind.
+- **Backend API Structure**: Route planning, error handling guidance.
+
+---
+
 ## ⚙️ Prerequisites
 
 - Node.js and npm installed
