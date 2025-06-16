@@ -62,11 +62,15 @@ cd ../client
 
 npm install
 
-npm run dev
-
 ### Running the App Locally
 Backend:
 
 cd server
+
+npm run dev
+
+Frontend:
+
+cd client
 
 npm run dev
